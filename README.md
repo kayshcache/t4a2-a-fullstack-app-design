@@ -6,3 +6,4 @@ Due Term 4 Week 7
 ### Social Engineering Training Management App
 Backend for managing users and content
 Frontend for delivering content to users and trainee administration
+TMS example of commercial product https://www.arlo.co/training-management-system
