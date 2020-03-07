@@ -19,10 +19,10 @@ You are to design a full stack web application (app) to meet a user need. You mu
 ## Documentation Requirements
 README + /docs
 1. R1	Description of your website, including:
-  * Purpose
-  * Functionality / features
-  * Target audience
-  * Tech stack	GENERAL
+   * Purpose
+   * Functionality / features
+   * Target audience
+   * Tech stack	GENERAL
 2. R2	Dataflow Diagram	CMP1043-4.2
 3. R3	Application Architecture Diagram	CMP1043-4.3
 4. R4	User Stories	CMP1043-5.1
