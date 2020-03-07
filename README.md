@@ -2,9 +2,20 @@
 ### Links
 1. [See Repository for Part B](https://github.com/kayshcache/t4a2-b-fullstack-app)
 2. [See Assignment specifications]()
-## Written hand-in assessment
-The students will design a Full Stack web application.	Written hand-in assessment	CMP1043: 4 - 5 ;	43% of CMP1043
-Due Term 4 Week 7
+## Assignment Requirements R1 - R6
+5   ### R1. Description
+  1 Details |Spec | Notes
+  2 --- | --- | ---
+  3 Project name: | SATM | Security Awareness Training Management
+  4 #### Purpose of Application
+  5 #### Functionality & Features
+  6 #### Target Audience
+  7 #### Technology Stack Description
+  8 ### R2. Dataflow Diagram
+  9 ### R3. Application Architecture Diagram
+ 10 ### R4. User Stories
+ 11 ### R5. Wireframes
+ 12 ### R6. Project Management (Screenshots)
 
 ## Concept #1
 ### Social Engineering Training Management App
