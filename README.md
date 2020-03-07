@@ -3,44 +3,46 @@
 1. [See Repository for Part B](https://github.com/kayshcache/t4a2-b-fullstack-app)
 2. [See Assignment specifications]()
 ## Assignment Requirements R1 - R6
-### R1. Description
-Details |Spec | Notes
---- | --- | ---
-Project name: | SATM | Security Awareness Training Management
-#### Purpose of Application
-#### Functionality & Features
-#### Target Audience
-#### Technology Stack Description
-### R2. Dataflow Diagram
-### R3. Application Architecture Diagram
-### R4. User Stories
-### R5. Wireframes
-### R6. Project Management (Screenshots)
+## R1. Description
+Project Detail | Notes
+--- | ---
+Name | Cyber SATM
+Category | Training Management Software
+Sector / Tier | Corporate, Medium to large business
+Industry | IT, Banking, Governance, Education
+Purpose | Provide managers of staff a convenient way to schedule, deliver and manage training content for employees to meet security awareness compliancy
+### Purpose of Application
+This application is a training management platform for medium to large businesses and corporations operating under Australian legal requirements to meet minimum accreditation of risks and procedures relating to information security in the workplace. It delivers a number of content types to employee-trainees as well as track individual employee completion of required training material.
+### Functionality & Features
+1. Manage employees in the system as trainees (will refer to employees as trainees from here onward)
+2. Allow registered trainees to access training materials
+3. Curate training materials for delivery. Curated materials are organized into units ( will be referred to as Training Units [TU] from here). TUs contain a description and title as well as up to 10 content types linked. Trainers, Managers, or content experts will submit TUs using a form. They can also delete or update the TUs in the system.
+4. Track employee completion of materials: when an employee accesses a TU, that is recorded. The next thing to be recorded is once the trainee has viewed all the materials in that TU they must confirm to have done so and understood the material in the TU - this is then also recorded and will display in the report. Each trainee must do that all TUs on their schedule.
+5. Display an overview report of training unit completion for managers and trainers to review the progress of the trainees in the system.
+### Target Audience
+Medium to large businesses with a primarily white collar workforce and corporations in need of "Security Awareness Training" (SAT)
+Marketing should appeal to middle and upper managers as well as CEOs looking for single solution to SAT management.
+User need: track the delivery of training material to staff of Cyber Security and Social Engineering Attack Awareness.
+How to meet that need: provide a simple platform to curate material into units and schedules. A schedule is like a course and contains units. Provide basic user management for trainees to login and complete their required schedule. Track the completion and progress of trainee activity on the platform.
+Known issues with Training Management Software (TMS): 
+1. Employee buy in; employees may not view the content as being relevant or important to the daily operations. SOLUTION: make the user experience as simple and painless as possible.
+2. Managers are very busy and don't have time to learn most websites. The management/admin panel will be very limited options but diplay only the most important information for them. Reports will display trainee completion and progress figures.
 
-## Concept #1
-### Social Engineering Training Management App
+### Technology Stack Description
+2 Servers: React Frontend and Node/Express API
+Primary datastore: Mongo
 Backend for managing users and content
 Frontend for delivering content to users and trainee administration
 TMS example of commercial product https://www.arlo.co/training-management-system
-## Spurious Introduction
-As an aspiring developer and cyber security professional, it is important to be able to communicate and demonstrate your abilities to prospective employers.
-
-This task requires you to demonstrate that you can build a complete application from design through to deployment for a specified use case.
-
+Mongo, Express, React, Node
+## R2. Dataflow Diagram
+## R3. Application Architecture Diagram
+## R4. User Stories
+## R5. Wireframes
+Wireframes for multiple standard screen sizes, created using industry standard software
+## R6. Project Management (Screenshots)
 ## Brief
 You are to design a full stack web application (app) to meet a user need. You must determine a user need and how this application will meet that need. You will then produce the required documentation to demonstrate this planning.
-## Documentation Requirements
-README + /docs
-1. R1	Description of your website, including:
-   * Purpose
-   * Functionality / features
-   * Target audience
-   * Tech stack	GENERAL
-2. R2	Dataflow Diagram	CMP1043-4.2
-3. R3	Application Architecture Diagram	CMP1043-4.3
-4. R4	User Stories	CMP1043-5.1
-5. R5	Wireframes for multiple standard screen sizes, created using industry standard software	CMP1043-4.1, CMP1043-5.3
-6. R6	Screenshots of your Trello board throughout the duration of the project
 ## Marking Criteria
 1. CMP1043-4.2 Dataflow Diagram: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 2. CMP1043-4.3 Application Architecture Diagram: Shows almost flawless understanding of the high level structure of the app
