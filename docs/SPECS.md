@@ -1,6 +1,5 @@
 # T3A2-A Full Stack Application (Part A)
-[See Repository for Part B](https://github.com/kayshcache/t4a2-b-fullstack-app)
-[See Assignment specifications]()
+[See Part B](https://github.com/kayshcache/t4a2-b-fullstack-app)
 ## Written hand-in assessment
 The students will design a Full Stack web application.	Written hand-in assessment	CMP1043: 4 - 5 ;	43% of CMP1043
 Due Term 4 Week 7
