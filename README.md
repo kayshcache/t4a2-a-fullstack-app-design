@@ -1,4 +1,5 @@
 # T3A2-A Full Stack Application (Part A)
+[See Part B](https://github.com/kayshcache/t4a2-b-fullstack-app)
 ## Written hand-in assessment
 The students will design a Full Stack web application.	Written hand-in assessment	CMP1043: 4 - 5 ;	43% of CMP1043
 Due Term 4 Week 7
@@ -17,20 +18,20 @@ This task requires you to demonstrate that you can build a complete application 
 You are to design a full stack web application (app) to meet a user need. You must determine a user need and how this application will meet that need. You will then produce the required documentation to demonstrate this planning.
 ## Documentation Requirements
 README + /docs
-R1	Description of your website, including:
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack	GENERAL
-R2	Dataflow Diagram	CMP1043-4.2
-R3	Application Architecture Diagram	CMP1043-4.3
-R4	User Stories	CMP1043-5.1
-R5	Wireframes for multiple standard screen sizes, created using industry standard software	CMP1043-4.1, CMP1043-5.3
-R6	Screenshots of your Trello board throughout the duration of the project
+1. R1	Description of your website, including:
+  * Purpose
+  * Functionality / features
+  * Target audience
+  * Tech stack	GENERAL
+2. R2	Dataflow Diagram	CMP1043-4.2
+3. R3	Application Architecture Diagram	CMP1043-4.3
+4. R4	User Stories	CMP1043-5.1
+5. R5	Wireframes for multiple standard screen sizes, created using industry standard software	CMP1043-4.1, CMP1043-5.3
+6. R6	Screenshots of your Trello board throughout the duration of the project
 ## Marking Criteria
-- CMP1043-4.2 Dataflow Diagram: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
-- CMP1043-4.3 Application Architecture Diagram: Shows almost flawless understanding of the high level structure of the app
-- CMP1043-5.1 Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
-- CMP1043-4.1 Utilise an industry standard program for creation of wireframes & CMP1043-5.3 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
-CMP1043-5.2 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana: Simple and clear standards for planning methodology chosen and adhered to
+1. CMP1043-4.2 Dataflow Diagram: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+2. CMP1043-4.3 Application Architecture Diagram: Shows almost flawless understanding of the high level structure of the app
+3. CMP1043-5.1 Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
+4. CMP1043-4.1 Utilise an industry standard program for creation of wireframes & CMP1043-5.3 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
+5. CMP1043-5.2 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana: Simple and clear standards for planning methodology chosen and adhered to
 
