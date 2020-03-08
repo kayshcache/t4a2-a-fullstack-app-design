@@ -38,7 +38,7 @@ Mongo, Express, React, Node
 ## R2. Dataflow Diagram
 ## R3. Application Architecture Diagram
 Inline-style: 
-![security awareness training management application architecture stack diagram](https://github.com/kayshcache/t4.png "https://github.com/kayshcache/t4a2-a-fullstack-app-design/blob/master/docs/satm-app-architecture-diagram.png")
+![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
 ## R5. Wireframes
 Wireframes for multiple standard screen sizes, created using industry standard software
