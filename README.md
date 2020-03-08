@@ -37,6 +37,8 @@ TMS example of commercial product https://www.arlo.co/training-management-system
 Mongo, Express, React, Node
 ## R2. Dataflow Diagram
 ## R3. Application Architecture Diagram
+Inline-style: 
+![security awareness training management application architecture stack diagram](https://github.com/kayshcache/t4.png "SATM Architecture Stack Diagram")
 ## R4. User Stories
 ## R5. Wireframes
 Wireframes for multiple standard screen sizes, created using industry standard software
