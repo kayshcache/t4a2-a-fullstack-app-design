@@ -21,13 +21,13 @@ This application is a training management platform for medium to large businesse
 5. Display an overview report of training unit completion for managers and trainers to review the progress of the trainees in the system.
 ### Target Audience
 Medium to large businesses with a primarily white collar workforce and corporations in need of "Security Awareness Training" (SAT)
-Marketing should appeal to middle and upper managers as well as CEOs looking for single solution to SAT management.
 User need: track the delivery of training material to staff of Cyber Security and Social Engineering Attack Awareness.
 How to meet that need: provide a simple platform to curate material into units and schedules. A schedule is like a course and contains units. Provide basic user management for trainees to login and complete their required schedule. Track the completion and progress of trainee activity on the platform.
 Known issues with Training Management Software (TMS): 
 1. Employee buy in; employees may not view the content as being relevant or important to the daily operations. SOLUTION: make the user experience as simple and painless as possible.
 2. Managers are very busy and don't have time to learn most websites. The management/admin panel will be very limited options but diplay only the most important information for them. Reports will display trainee completion and progress figures.
-
+#### Marketing Strategy
+Marketing should appeal to middle and upper managers as well as CEOs looking for single solution to SAT management.
 ### Technology Stack Description
 2 Servers: React Frontend and Node/Express API
 Primary datastore: Mongo
