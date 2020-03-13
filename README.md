@@ -6,7 +6,8 @@
 ## R1. Description
 Project Detail | Notes
 --- | ---
-Name | Cyber SATM
+Name (Acronym) | SATM
+Full name | Security Awareness Training Manager
 Category | Training Management Software
 Sector / Tier | Corporate, Medium to large business
 Industry | IT, Banking, Governance, Education
