@@ -40,15 +40,39 @@ Mongo, Express, React, Node
 Inline-style: 
 ![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
+For example persona:
+- **As a** student,
+- **I want to** get information,
+- **so that** I can complete an assignment
+What and Why
+Outline meaningful features of the project
+
+How does the agile methodology directly relate to the UX/UI design documentation
+
+May we see some examples of user stories that show evidence of revision and refinement?
+
+Yardstick
+
 ## R5. Wireframes
 Wireframes for multiple standard screen sizes, created using industry standard software
 ## R6. Project Management (Screenshots)
+Trello work stream:
+LISTS
+- backlog (unplanned work)
+- to do list
+- in progress (things currently working on)
+- ready for review
+- done
+CARDS: User story card
+- sub-tasks
+- story points or time estimates
+- due dates
 ## Brief
 You are to design a full stack web application (app) to meet a user need. You must determine a user need and how this application will meet that need. You will then produce the required documentation to demonstrate this planning.
 ## Marking Criteria
 1. CMP1043-4.2 Dataflow Diagram: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 2. CMP1043-4.3 Application Architecture Diagram: Shows almost flawless understanding of the high level structure of the app
-3. CMP1043-5.1 Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
+3. CMP1043-5.1 Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of the project. Shows evidence of user story revision and refinement.
 4. CMP1043-4.1 Utilise an industry standard program for creation of wireframes & CMP1043-5.3 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 5. CMP1043-5.2 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana: Simple and clear standards for planning methodology chosen and adhered to
 
