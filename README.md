@@ -40,18 +40,22 @@ Mongo, Express, React, Node
 Inline-style: 
 ![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
+### Initial User Stories
 For example persona:
 - **As a** student,
 - **I want to** get information,
 - **so that** I can complete an assignment
-What and Why
+Many user types/tokens
+Many Whats and Whys
 Outline meaningful features of the project
 
-How does the agile methodology directly relate to the UX/UI design documentation
+How does the agile methodology directly relate to the UX/UI design documentation?
+stories are represented by cards/features 
 
 May we see some examples of user stories that show evidence of revision and refinement?
 
 Yardstick
+### Revised User Stories
 
 ## R5. Wireframes
 Wireframes for multiple standard screen sizes, created using industry standard software
@@ -60,6 +64,7 @@ Trello work stream:
 LISTS
 - backlog (unplanned work)
 - to do list
+- user stories brain dump (can also be prioritized)
 - in progress (things currently working on)
 - ready for review
 - done
