@@ -4,7 +4,7 @@
 2. [See Assignment specifications]()
 ## Assignment Requirements R1 - R6
 ## R1. Description
-Project Detail | Notes
+... | ...
 --- | ---
 Name (Acronym) | SATM
 Full name | Security Awareness Training Manager
