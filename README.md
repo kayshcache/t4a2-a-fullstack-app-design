@@ -53,13 +53,15 @@ No. | User Story | Associated Feature
 ### Revised User Stories
 
 ## R5. Wireframes
-Wireframes for multiple standard screen sizes, created using industry standard software
+![wf1.1 login](/docs/wf1-1-login.png)
+![wf1.2 trainee view](/docs/wf1-2.png)
+![wf2 mobile](/docs/wf2.png)
+![wf3 management](/docs/wf3.png)
+![wf4 content curation](/docs/wf4.png)
 ## R6. Project Management (Screenshots)
 ![agile project management view 1](/docs/agile-1.png)
 ![agile project management view 2](/docs/agile-2.png)
 ![agile project management view 3](/docs/agile-3.png)
-## Brief
-You are to design a full stack web application (app) to meet a user need. You must determine a user need and how this application will meet that need. You will then produce the required documentation to demonstrate this planning.
 ## Marking Criteria
 1. CMP1043-4.2 Dataflow Diagram: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 2. CMP1043-4.3 Application Architecture Diagram: Shows almost flawless understanding of the high level structure of the app
