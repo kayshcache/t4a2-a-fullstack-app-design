@@ -37,6 +37,7 @@ Frontend for delivering content to users and trainee administration
 TMS example of commercial product https://www.arlo.co/training-management-system
 Mongo, Express, React, Node
 ## R2. Dataflow Diagram
+![dataflow](/docs/flow-diagram.png)
 ## R3. Application Architecture Diagram
 ![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
@@ -49,8 +50,6 @@ No. | User Story | Associated Feature
 4 | CEO wants to see the report that shows the progress of the employees to complete the training so they can estimate schedule for other coming company priorities. They are busy and want a simple report. | A csv file showing employee name and progress statistics in simple format, middle managers can also use it to prepare more readable reports for upper management.
 5 | Managers want to export simple data from the progress of the employees to view the content so they can prepare their report to the leadership. | Export button exports all data from the progress report screen to CSV
 6 | Managers want to know which employees are not completing the course in time so they can contact that individual and discuss with them | Overview shows stats and shortlist of employees who have not progressed as far as others.
-
-### Revised User Stories
 
 ## R5. Wireframes
 ![wf1.1 login](/docs/wf1-1-login.png)
