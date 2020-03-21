@@ -41,20 +41,15 @@ Mongo, Express, React, Node
 ![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
 ### Initial User Stories
-For example persona:
-- **As a** student,
-- **I want to** get information,
-- **so that** I can complete an assignment
-Many user types/tokens
-Many Whats and Whys
-Outline meaningful features of the project
+No. | User Story | Associated Feature
+--- | --- | ---
+1 | Employees want to track their progress to fulfill their requirement to complete the training. They want a simple user experience. | Trainee view shows progress in a list. Star indicated completed units, dot indicates current
+2 | Managers want to see the progress overview report of all the employees they need to tick off the list. They have to verify to their leadership that the company's employees have had the required SAT. | User management view where they can go through and see progress reports for each employee.
+3 | Trainer might also be the manager or even an outside contractor wants to put the content in the system and make it available for the company's employees to access. | Content curation page for uploading SCORM, PDF, text or other content for each unit in the training program.
+4 | CEO wants to see the report that shows the progress of the employees to complete the training so they can estimate schedule for other coming company priorities. They are busy and want a simple report. | A csv file showing employee name and progress statistics in simple format, middle managers can also use it to prepare more readable reports for upper management.
+5 | Managers want to export simple data from the progress of the employees to view the content so they can prepare their report to the leadership. | Export button exports all data from the progress report screen to CSV
+6 | Managers want to know which employees are not completing the course in time so they can contact that individual and discuss with them | Overview shows stats and shortlist of employees who have not progressed as far as others.
 
-How does the agile methodology directly relate to the UX/UI design documentation?
-stories are represented by cards/features 
-
-May we see some examples of user stories that show evidence of revision and refinement?
-
-Yardstick
 ### Revised User Stories
 
 ## R5. Wireframes
