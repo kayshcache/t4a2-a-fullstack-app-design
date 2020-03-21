@@ -55,18 +55,9 @@ No. | User Story | Associated Feature
 ## R5. Wireframes
 Wireframes for multiple standard screen sizes, created using industry standard software
 ## R6. Project Management (Screenshots)
-Trello work stream:
-LISTS
-- backlog (unplanned work)
-- to do list
-- user stories brain dump (can also be prioritized)
-- in progress (things currently working on)
-- ready for review
-- done
-CARDS: User story card
-- sub-tasks
-- story points or time estimates
-- due dates
+![agile project management view 1](/docs/agile-1.png)
+![agile project management view 2](/docs/agile-2.png)
+![agile project management view 3](/docs/agile-3.png)
 ## Brief
 You are to design a full stack web application (app) to meet a user need. You must determine a user need and how this application will meet that need. You will then produce the required documentation to demonstrate this planning.
 ## Marking Criteria
