@@ -38,7 +38,6 @@ TMS example of commercial product https://www.arlo.co/training-management-system
 Mongo, Express, React, Node
 ## R2. Dataflow Diagram
 ## R3. Application Architecture Diagram
-Inline-style: 
 ![security awareness training management application architecture stack diagram](/docs/satm-app-architecture-diagram.png)
 ## R4. User Stories
 ### Initial User Stories
@@ -81,4 +80,3 @@ You are to design a full stack web application (app) to meet a user need. You mu
 3. CMP1043-5.1 Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of the project. Shows evidence of user story revision and refinement.
 4. CMP1043-4.1 Utilise an industry standard program for creation of wireframes & CMP1043-5.3 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 5. CMP1043-5.2 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana: Simple and clear standards for planning methodology chosen and adhered to
-
